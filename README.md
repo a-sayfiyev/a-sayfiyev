@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akobir Sayfiyev</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=a-sayfiyev&label=Profile%20views&color=0e75b6&style=flat" alt="a-sayfiyev" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a-sayfiyev" alt="a-sayfiyev" /></a> </p>
-
 - 🔭 I’m currently working on **Freelance agencies**
 
 - 🌱 I’m currently learning **Javascript, React JS**
@@ -13,9 +9,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/akobir_sayfiyev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akobir_sayfiyev" height="30" width="40" /></a>
+  <a href="https://fb.com/akobir.sayfiyev.75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akobir.sayfiyev.75" height="30" width="40" /></a>
+ <a href="https://twitter.com/akobir_sayfiyev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akobir_sayfiyev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/akobir-sayfiyev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akobir-sayfiyev" height="30" width="40" /></a>
-<a href="https://fb.com/akobir.sayfiyev.75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="akobir.sayfiyev.75" height="30" width="40" /></a>
 <a href="https://instagram.com/akobir__sayfiyev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akobir__sayfiyev" height="30" width="40" /></a>
 </p>
 
